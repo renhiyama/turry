@@ -1,0 +1,13 @@
+{
+  "imports": {
+    "enquirer": "https://esm.sh/enquirer@2.3.6?bundle",
+    "mineflayer": "mineflayer",
+    "mineflayer-utils": "mineflayer-utils",
+    "mineflayer-pathfinder": "https://esm.sh/*mineflayer-pathfinder@2.4.4",
+    "mineflayer-pvp": "https://esm.sh/*mineflayer-pvp@1.3.2",
+    "mineflayer-statemachine": "https://esm.sh/*mineflayer-statemachine@1.7.0",
+    "mineflayer-auto-eat": "https://esm.sh/*mineflayer-auto-eat@3.3.6",
+    "mineflayer-armor-manager": "https://esm.sh/*mineflayer-armor-manager@2.0.1",
+    "compromise": "https://esm.sh/compromise@14.9.0?bundle"
+  }
+}
